@@ -1,1 +1,2 @@
 release branch 
+added new line in release.txt fine in main branch
